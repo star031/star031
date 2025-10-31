@@ -6,8 +6,9 @@
 
 ###
 
+<!-- 🌟 Custom Animated Banner -->
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=STAR031%20//%20Passionate%20Developer&fontSize=45&fontAlignY=35&desc=Building%20Ideas%20into%20Reality%20✨&descAlignY=55&animation=fadeIn" width="100%" alt="banner"/>
 </div>
 
 ###
@@ -45,21 +46,18 @@
 
 ###
 
-<h3 align="center">🎮 Fun Animated Contribution Graph 🎮</h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<h3 align="center">📈 My Real Contribution Graph 📈</h3>
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation repeat" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=star031&theme=dracula&area=true&hide_border=false" width="100%" alt="star031's GitHub Activity Graph"/>
 </div>
 
 ###
 
 <h3 align="center">💬 Thanks for stopping by — Have a great day! 🌈</h3>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</div>
+
 
